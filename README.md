@@ -15,7 +15,7 @@ Learning practical leadership techniques to address team dynamics and resolve sp
 Belonging to the Mongolian ethnicity and originally from the Mongolian autonomous region in northern China, I have been in the United States for 15 years. I earned an M.S. in Computer Science and a Ph.D. in Biomedical Sciences from the University of Texas at El Paso (UTEP).
 
 ## Professional Journey
-After completing my Ph.D., I spent a year working at the Molecular Imaging Center at UCLA. I then joined MD Anderson’s proton center as a Proton Therapy Fellow under Dr. Sahoo. Upon completing the fellowship, I transitioned to IROC, where I worked with Steven Kry and Paige Taylor, focusing on quality assurance (QA) system management and development.
+After completing my Ph.D., I spent a year working at the Molecular Imaging department at UCLA. I then joined MD Anderson’s proton center as a Proton Therapy Fellow under Dr. Sahoo. Upon completing the fellowship, I transitioned to IROC, where I worked with Steven Kry and Paige Taylor, focusing on quality assurance (QA) system management and development.
 
 ## Current Role and Responsibilities
 Now a member of the architecture team, my primary responsibilities include providing high-performance computing services using Kubernetes and programming for EPIC’s Chronicle database. My role centers on optimizing computing solutions to support MD Anderson's data-intensive needs and enhance operational efficiency.
