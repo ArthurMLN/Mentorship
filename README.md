@@ -28,7 +28,7 @@ As Dr.Chung has a very busy schedule, the purpose of our first conversation is t
 ## Discussion Topics
 During the initial meeting, I hope to discuss the following:
 - **Current Challenges and Areas for Improvement**: Share my current role’s challenges and areas where I seek growth, particularly in cross-department collaboration and leadership strategies.
-- **Learning Objectives and Skill Development**: Outline specific skills I aim to develop, both technical (e.g., high-performance computing) and soft skills (e.g., team leadership).
+- **Learning Objectives and Skill Development**: Outline specific skills I aim to develop, both technical (e.g., data science) and soft skills (e.g., team leadership).
 - **Expectations and Outcomes**: Discuss the outcomes I hope to achieve through this mentorship and ways to measure progress.
 - **Preferred Mentorship Style**: Seek her feedback on the preferred format and frequency of communication, as well as her recommendations for structuring our mentorship sessions.
   
