@@ -12,7 +12,7 @@ Learning practical leadership techniques to address team dynamics and resolve sp
 # Personal Background
 
 ## Cultural and Educational Background
-Originally from the Mongolian autonomous region in northern China, I have been in the United States for 15 years. I earned a M.S. in Computer Science and a Ph.D. in Biomedical Sciences from the University of Texas at El Paso (UTEP).
+Belonging to the Mongolian ethnicity and originally from the Mongolian autonomous region in northern China, I have been in the United States for 15 years. I earned an M.S. in Computer Science and a Ph.D. in Biomedical Sciences from the University of Texas at El Paso (UTEP).
 
 ## Professional Journey
 After completing my Ph.D., I spent a year working at the Molecular Imaging Center at UCLA. I then joined MD Anderson’s proton center as a Proton Therapy Fellow under Dr. Sahoo. Upon completing the fellowship, I transitioned to IROC, where I worked with Steven Kry and Paige Taylor, focusing on quality assurance (QA) system management and development.
