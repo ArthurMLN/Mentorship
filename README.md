@@ -1,4 +1,17 @@
+# Mentorship Goals Outline
 
+```mermaid
+flowchart TB
+    A[Strategic Mentorship Goals for Professional Growth]
+    B[Personal Background]
+    C[Initial Meeting Agenda]
+    
+    A --> A1[1. Expanding Professional Network] --> A2[2. Gaining Strategic Insights for Future Preparedness] --> A3[3. Developing Leadership Strategies for Team Effectiveness]
+    
+    B --> B1[Cultural and Educational Background] --> B2[Professional Journey] --> B3[Current Role and Responsibilities]
+    
+    C --> C1[Purpose] --> C2[Discussion Topics] --> C3[Next Steps]
+```
 
 
 # Strategic Mentorship Goals for Professional Growth
@@ -38,16 +51,3 @@ During the initial meeting, I hope to discuss the following:
 ## Next Steps
 I aim to collaboratively establish a flexible mentorship plan based on her availability, ensuring that our interactions are efficient and mutually beneficial. This conversation will serve as a foundation for setting realistic goals, timelines, and checkpoints in alignment with her schedule.
 
-# Mentorship Goals Outline (Flowchart)
-
-```mermaid
-flowchart TB
-    A[Strategic Mentorship Goals for Professional Growth]
-    B[Personal Background]
-    C[Initial Meeting Agenda]
-    
-    A --> A1[Expanding Professional Network] --> A2[Gaining Strategic Insights for Future Preparedness] --> A3[Developing Leadership Strategies for Team Effectiveness]
-    
-    B --> B1[Cultural and Educational Background] --> B2[Professional Journey] --> B3[Current Role and Responsibilities]
-    
-    C --> C1[Purpose] --> C2[Discussion Topics] --> C3[Next Steps]
