@@ -6,7 +6,7 @@ flowchart TB
     B[Personal Background]
     C[Initial Meeting Agenda]
     
-    A --> A1[1. Expanding Professional Network] --> A2[2. Gaining Strategic Insights for Future Preparedness] --> A3[3. Developing Leadership Strategies for Team Effectiveness]
+    A --> A1[Expanding Professional Network] --> A2[Gaining Strategic Insights for Future Preparedness] --> A3[Developing Leadership Strategies for Team Effectiveness]
     
     B --> B1[Cultural and Educational Background] --> B2[Professional Journey] --> B3[Current Role and Responsibilities]
     
