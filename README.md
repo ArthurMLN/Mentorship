@@ -1,4 +1,4 @@
-# Strategic Mentorship Goals for Professional Growth at MD Anderson
+# Strategic Mentorship Goals for Professional Growth
 
 ## 1. Expanding Professional Network
 With MD Anderson prioritizing internal hires for key positions, it’s essential to expand connections across departments to increase visibility and career opportunities. Remote work has reduced natural networking chances, so establishing relationships with professionals in other areas is now a strategic priority. I hope my mentor can help by introducing me to key individuals or recommending relevant cross-departmental opportunities.
